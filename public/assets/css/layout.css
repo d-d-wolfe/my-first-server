@@ -14,7 +14,7 @@ body {
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
-  color: #888;
+  color: #a3e0f0;
 }
 
   body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -373,15 +373,15 @@ section, article {
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #a5cbf2;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #728fed;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #6282bd;
       }
       
       /* Wide */
