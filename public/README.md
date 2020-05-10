@@ -18,15 +18,6 @@ Finish time: __8:05pm___
 
 Actual time needed to complete: __55min___
 
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
 
 Number and name of feature: __Lab 5 - Deploy to Heroku__
 
