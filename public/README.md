@@ -29,11 +29,11 @@ Finish time: __5:30pm___
 
 Actual time needed to complete: __1 hour 15 min ___
 
-Number and name of feature: ________________________________
+Number and name of feature: __Slideshow__
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: _1.5 hours____
 
-Start time: _____
+Start time: __6:30pm___
 
 Finish time: _____
 
