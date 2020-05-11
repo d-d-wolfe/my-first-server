@@ -35,9 +35,9 @@ Estimate of time needed to complete: _1.5 hours____
 
 Start time: __6:30pm___
 
-Finish time: _____
+Finish time: __8:15___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __1.75 hours___
 
 Number and name of feature: ________________________________
 
